@@ -1,6 +1,6 @@
 # Analysis and visualization of geographical data
 
-Adapted for South America from https://towardsdatascience.com/creating-beautiful-river-maps-with-python-37c9b5f5b74c
+Adapted for South America from [here](https://towardsdatascience.com/creating-beautiful-river-maps-with-python-37c9b5f5b74c)
 
 * Drainage network from [HydroSHEDS](https://www.hydrosheds.org/downloads)
 * Geographical data from [Natural Earth Data](https://www.naturalearthdata.com/downloads/)
